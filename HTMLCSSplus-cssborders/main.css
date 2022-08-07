@@ -1,0 +1,22 @@
+/* css border width, the syle, color o an element's border*/
+#one {
+    background-color: aqua;
+    border-radius: 30px 20px 40px 10px;
+}
+#two {
+    border-style: dashed;
+    border-width: 3px 7px 10px 20px;
+}
+#three {
+    border-style: solid;
+    border-color: orange;
+  
+}
+#four {
+    border-style: double;
+    border-color: red aquamarine;
+}
+#five {
+    border-style: ridge;
+    border-width: 7px ;
+}
